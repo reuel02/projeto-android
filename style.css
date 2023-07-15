@@ -164,3 +164,17 @@ footer > a:hover {
   color: #83e1ad;
   text-decoration: underline;
 }
+#listas > ul {
+  display: inline-block;
+  font: normal 22px Bebas Neue;
+}
+#listas {
+  padding: 10px;
+  margin: auto;
+  text-align: justify;
+  width: 500px;
+  background-color: white;
+  border-radius: 10px 10px 10px 10px;
+  border-style: solid;
+  border-color: #06391c;
+}
